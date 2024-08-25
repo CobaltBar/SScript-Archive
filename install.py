@@ -12,7 +12,11 @@ def main():
 	versions = {versionJson[i]['name'].replace('SScript-', '').replace('.zip', '').strip().lower(): versionJson[i] for i in range(len(versionJson))}
 
 	if not version in versions.keys():
-		print('Invalid version.')
+		versionNames = [version for version in versions.keys()]
+		def sort(obj):
+			return int(obj.split(',')[0])
+		versionNames.sort(key=sort, reverse=True)
+		print('Invalid version. Valid Versions:\n' + "\n".join(versionNames))
 		return
 	
 	haxepath = subprocess.run(['haxelib', 'config'], capture_output=True, text=True)

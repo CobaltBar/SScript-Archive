@@ -2,9 +2,10 @@
 
 Archived versions of SScript so PsychEngine can be compiled
 
-## How to install
+## Installation Instructions
 
-- Download and extract the desired version into your haxelib folder (`C:\HaxeToolkit\haxe\lib` or `~/haxelib`) and rename it to `SScript`
+- Download and run `install.py` with the desired version (e.g `install.py 21.0.0`)
+  - Requires `requests` (`pip install requests`)
 
 ## Credits
 

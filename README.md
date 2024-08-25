@@ -9,7 +9,8 @@ Archived versions of SScript so PsychEngine can be compiled
 
 ## Credits
 
-- Cobalt Bar - Putting the collection together
-- tposejank - SScript zips
-- LarryFrosty - SScript zips
-- Moonlight Catalyst - SScript zips
+- [Cobalt Bar](https://cobaltbar.github.io/) - Putting the collection together
+- [tposejank](https://tposejank.carrd.co/) - SScript zips + verification
+- [LarryFrosty](https://www.youtube.com/@larryfrosty) - SScript zips
+- [Moonlight Catalyst](https://mooniecat.carrd.co/) - SScript zips
+- [Lily](https://mcagabe19.pages.gay/) - Mobile SScript Patches

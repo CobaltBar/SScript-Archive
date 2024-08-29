@@ -61,9 +61,13 @@ def main():
 
 	if not version in versions.keys():
 		versionNames = [version for version in versions.keys()]
-		def sort(obj):
-			return int(obj.split(',')[0])
-		versionNames.sort(key=sort, reverse=True)
+
+		def sort_versions(version_list):
+			def version_key(version):
+				return tuple(map(int, version.split('-')[0].split(',')))
+			return sorted(version_list, key=version_key, reverse=True)
+
+		versionNames = sort_versions(versionNames)
 
 		version_table = []
 		columns = 6

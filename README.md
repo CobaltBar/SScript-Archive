@@ -1,6 +1,6 @@
 # SScript-Archive
 
-Archived versions of SScript so PsychEngine can be compiled
+Archived versions of SScript so Psych Engine and other projects can be developed and compiled
 
 ## Installation Instructions
 
@@ -24,3 +24,6 @@ Archived versions of SScript so PsychEngine can be compiled
 - [LarryFrosty](https://www.youtube.com/@larryfrosty) - SScript zips
 - [Moonlight Catalyst](https://mooniecat.carrd.co/) - SScript zips
 - [Lily](https://mcagabe19.pages.gay/) - Mobile SScript Patches
+
+## Contributing
+Read the [contributing guide](CONTRIBUTING.md).

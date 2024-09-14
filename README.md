@@ -34,9 +34,10 @@ If you are still getting the "SScript is not available, thanks to everyone for t
 | Psych Version | SScript |
 | -------- | ------- |
 | 1.0b (Pre [HScript-Iris](https://www.github.com/crowplexus/HScript-Iris/)) | from 17.0.618 to 21.0.0 |
-| 0.7.3    | 8.1.6 |
-| 0.7.2    | 7.7.0 |
-| 0.7.1    | 7.7.0 |
+| 0.7.3    | 7.7.0 |
+| 0.7.2 to 0.7.2h    | 7.7.0 |
+| 0.7.1h    | 4.0.1 |
+| 0.7.1    | from 3.0.0 to 4.0.1 |
 | [main](https://www.github.com/ShadowMario/FNF-PsychEngine/tree/main/) (as of Sep. 9, 2024) | 7.7.0 to 8.1.6 |
 
 ### For other projects

@@ -6,8 +6,9 @@ Archived versions of SScript, a Haxe Script library, so Psych Engine and other p
 
 ### Via the included Python script (Recommended)
 
-- Download and run `install.py` with the desired version (e.g `install.py 21.0.0`)
-  - Requires `requests` (`pip install requests`)
+- Download the script `install.py`
+- Install the dependencies `pip install requests`
+- Run the script `python install.py 21.0.0`
 
 ### Install manually
 
@@ -26,6 +27,10 @@ Follow these steps:
 - Perform the install command there, with the file present in that directory.
 
 If you are still getting the "SScript is not available, thanks to everyone for their support" message, make sure you read the instructions correctly.
+
+### For Python script
+
+Please watch a YouTube video on how to use Python. It is extremely simple.
 
 ## Recommended versions
 
